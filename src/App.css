@@ -1,0 +1,6 @@
+header img {
+    max-width: 150px; /* Adjust the maximum width of the logo as needed */
+    position: absolute;
+    top: 0;
+    left: 0;
+}
