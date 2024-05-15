@@ -1,0 +1,3 @@
+{
+   "member_number": "{{randomValue length=8 type='NUMERIC'}}"
+}

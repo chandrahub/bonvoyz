@@ -1,0 +1,14 @@
+{
+    "request": {
+        "method": "POST",
+        "urlPattern": "/register"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "bodyFileName":"member_number.json",
+        "transformers": ["response-template"]
+    }
+}

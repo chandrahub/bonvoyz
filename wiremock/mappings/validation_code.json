@@ -1,0 +1,14 @@
+{
+    "request": {
+        "method": "POST",
+        "urlPattern": "/validate"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "bodyFileName":"validation_code.json",
+        "transformers": ["response-template"]
+    }
+}

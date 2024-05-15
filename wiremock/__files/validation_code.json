@@ -1,0 +1,3 @@
+{
+   "validation_code": "{{randomValue length=6 type='NUMERIC'}}"
+}
