@@ -26,7 +26,7 @@ app.post('/api/send-email', async (req, res) => {
         service: 'gmail',
         auth: {
             user: 'codefestmarriott@gmail.com', // Your Gmail email address
-            pass: 'zbwtsmvhvozosvev' // Your Gmail password or app-specific password if 2FA is enabled
+            pass: 'abcddummy' // Your Gmail password or app-specific password if 2FA is enabled
         }
     });
 
